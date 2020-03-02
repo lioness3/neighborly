@@ -2,10 +2,10 @@
 
 ##### By Kyle Wymer, Jo Carter, Casey Idsinga, Marcus Jensen, & Noah Horwitz
 
-###### _First published 2019-02-06_
+###### _First published 2020-02-06_
 
 ## Description:
-This application was made as part of a team coding project by [Kyle Wymer](https://github.com/wymerkd), [Jo Carter](https://github.com/lioness3), [Casey Idsinga](https://github.com/cidsinga), [Marcus Jensen](https://github.com/marcusjensen15), & [Noah Horwitz](), students at _[Epicodus](http://www.epicodus.com)_, which is a vocational school for technology careers based in Portland, OR. The project is designed to create an Ruby on Rails API for an animal shelter. The API will list the available cats and dogs at the shelter.
+This application was made as part of a team coding project by [Kyle Wymer](https://github.com/wymerkd), [Jo Carter](https://github.com/lioness3), [Casey Idsinga](https://github.com/cidsinga), [Marcus Jensen](https://github.com/marcusjensen15), & [Noah Horwitz](), students at _[Epicodus](http://www.epicodus.com)_, which is a vocational school for technology careers based in Portland, OR. The project is designed to create a place for neighbors to create and search for events based on the user area code. The radius around the user area code is determined from an API call.
 
 ## Setup/Installation instructions:
 * Click the `Clone or download` button and copy the link.
@@ -28,14 +28,6 @@ This application was made as part of a team coding project by [Kyle Wymer](https
 ## Known Bugs
 * None
 
-
-## User Stories
-
-
-## References
-
-## Support and contact details
-Contact [example@sample.com](mailto:example@sample.com)
 
 ## License
 _This This repository is copyright (C) 2020 by Noah Horwitz and licensed under the GNU General Public License v3.0 [gpl-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)_.
